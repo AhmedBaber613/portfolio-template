@@ -1,0 +1,129 @@
+.container2 {
+    margin-left: 200px;
+    margin-top: 80px;
+}
+
+.container {
+    position: absolute;
+    top: 25%;
+    margin-left: 240px;
+    line-height: 1.3em;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.headers {
+    color: #ffc400;
+    font-size: 48px;
+    font-family: monospace;
+    margin-bottom: 25px;
+}
+
+.container p {
+    line-height: 1.3em;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #fff;
+}
+
+.h1 {
+    font-family: sans-serif;
+}
+
+.footer {
+    margin-top: 75px;
+    margin-left: 725px;
+}
+
+button {
+    border: none;
+    color: white;
+    font-family: sans-serif;
+    padding: 14px;
+    position: absolute;
+    left: 40%;
+    border-radius: 5px;
+}
+
+a {
+    color: black;
+    font-family: sans-serif;
+    position: absolute;
+    left: 30%;
+    text-decoration: none;
+}
+
+.button {
+    position: relative;
+    left: 80%;
+    bottom: 80%;
+    margin-right: 20px;
+    right: 20%;
+    background-color: #ff3e3e;
+}
+
+.button:hover {
+    opacity: 0.5;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.button:active {
+    opacity: 0.35;
+}
+
+.a {
+    position: relative;
+    left: 65%;
+    bottom: 80%;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+
+.a:hover {
+    cursor: pointer;
+}
+
+h3 {
+    color: #f34d4d;
+    font-size: 20px;
+}
+
+.button1 {
+    position: relative;
+    right: 100%;
+    bottom: 80%;
+    margin-left: 8px;
+    background-color: #ff3e3e;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.button1:hover {
+    opacity: 0.5;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.button1:active {
+    opacity: 0.35;
+}
+
+.button2 {
+    position: relative;
+    right: 80%;
+    bottom: 80%;
+    margin-left: 8px;
+    background-color: #ffffff93;
+    border-radius: 0px;
+    padding-left: 35px;
+    padding-right: 35px;
+    color: black;
+    border: 1px solid black;
+}
+
+.button2:hover {
+    cursor: pointer;
+    box-shadow: 3px 2px 4px;
+    transition: 0.5s;
+}
